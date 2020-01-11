@@ -1,5 +1,5 @@
 # keep-it-here
-This is a web-app which can used for making,storing and deleting notes in react.
+This is a web-app which can used for making,storing and deleting notes using react for frontend and express for backend with mysql database.
 
 # Installation
 First clone the project in your local machine using:
@@ -12,6 +12,7 @@ npm start
 
 # Usage
 ## Adding Notes
+
 For Adding Notes write the note content in the textbox and click submit as shown:
 <img src="https://github.com/HarshitNITT/keep-it-here/blob/master/demo_images/Add_Note.png" />
 <img src="https://github.com/HarshitNITT/keep-it-here/blob/master/demo_images/Add_Note1.png" />
@@ -21,5 +22,7 @@ For Deleting Notes each note component contains a delete Button which is used to
 <img src="https://github.com/HarshitNITT/keep-it-here/blob/master/demo_images/Delete_Note1.png" />
 # Languages
 Reactjs
+Expressjs
+MySQL
 # License
 This project is licensed under the MIT License.
