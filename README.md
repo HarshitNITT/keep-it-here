@@ -21,8 +21,8 @@ For Deleting Notes each note component contains a delete Button which is used to
 <img src="https://github.com/HarshitNITT/keep-it-here/blob/master/demo_images/Delete_Note.png" />
 <img src="https://github.com/HarshitNITT/keep-it-here/blob/master/demo_images/Delete_Note1.png" />
 # Languages
-Reactjs
-Expressjs
-MySQL
+* Reactjs
+* Expressjs
+* MySQL
 # License
 This project is licensed under the MIT License.
